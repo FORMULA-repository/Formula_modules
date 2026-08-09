@@ -5,7 +5,7 @@
       "name": "Mathemathic Analysis",
       "desc": "Adds Mathemathic Analysis functions: integration, differentiation, and limits. Also adds Euler's constant, pi, and the Euler-Mascheroni constant.",
       "author": "FORMULA",
-      "ver": "0.0.1",
+      "ver": "0.0.2",
       "repo_path": "FORMULA-repository/Formula_modules",
       "file_name": "math-analysis-project.zip"
     }
