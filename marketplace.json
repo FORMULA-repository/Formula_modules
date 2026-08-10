@@ -8,6 +8,15 @@
       "ver": "0.0.2",
       "repo_path": "FORMULA-repository/Formula_modules",
       "file_name": "math-analysis-project.zip"
+    },
+    {
+      "id": "0002",
+      "name": "Iterative Functions",
+      "desc": "Adds sigma sum and pi product loops",
+      "author": "FORMULA",
+      "ver": "0.0.1",
+      "repo_path": "FORMULA-repository/Formula_modules",
+      "file_name": "iterative-functions-project.zip"
     }
   ]
 }
